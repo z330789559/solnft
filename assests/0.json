@@ -1,9 +1,9 @@
 {
   "name": "Number #0001",
   "symbol": "NB",
-  "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+  "description": "Collection of 5000 numbers on the blockchain. This is the number 1/5000.",
   "seller_fee_basis_points": 500,
-  "image": "0.png",
+  "image": "https://ipfs.zifu.vip/ipfs/QmcypUXa9fTdTHVPhohRPZqxfgAbpwuV7CP2PDTd2wukdG/cover.gif",
   "attributes": [
     { "trait_type": "Layer-1", "value": "0" },
     { "trait_type": "Layer-2", "value": "0" },
@@ -12,9 +12,9 @@
   ],
   "properties": {
     "creators": [
-      { "address": "HD9uxteEVVcUgdu8JYVz2nR53k6E3wgFtE6ex5AaVScP", "share": 100 }
+      { "address": "4usThpfE7hWqnRfGX31NW89rCF2mwfPzteEcXYUgTtKD", "share": 100 }
     ],
-    "files": [{ "uri": "0.png", "type": "image/png" }]
+    "files": [{ "uri": "0.png", "type": "image/gif" }]
   },
   "collection": { "name": "numbers", "family": "numbers" }
 }
