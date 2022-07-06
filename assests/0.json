@@ -1,9 +1,9 @@
 {
-  "name": "Number #0001",
-  "symbol": "NB",
+  "name": "Violent squirrel #0001",
+  "symbol": "VS",
   "description": "Collection of 5000 numbers on the blockchain. This is the number 1/5000.",
   "seller_fee_basis_points": 500,
-  "image": "https://ipfs.zifu.vip/ipfs/QmcypUXa9fTdTHVPhohRPZqxfgAbpwuV7CP2PDTd2wukdG/cover.gif",
+  "image": "0.gif",
   "attributes": [
     { "trait_type": "Layer-1", "value": "0" },
     { "trait_type": "Layer-2", "value": "0" },
